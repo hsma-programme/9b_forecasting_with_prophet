@@ -46,9 +46,9 @@ You are provided with a conda environment (see environment_win.yml) that you can
 
    * `conda env create -f environment_win.yml`
 
-3. Conda will resolve the enviornment and ask if you wish to install it.  Answer 'y'. Installation will take several minutes.  It installs an environment called `hsma4_forecast9b_win`.  You need to activate it.
+3. Conda will resolve the enviornment and ask if you wish to install it.  Answer 'y'. Installation will take several minutes.  It installs an environment called `hsma5_forecast9b_win`.  You need to activate it.
 
-   * `conda activate hsma4_forecast9b_win`
+   * `conda activate hsma5_forecast9b_win`
 
 4. To follow the code along lectures and complete the exercises please use Jupyter-Lab.  To run it enter the following command into your anaconda prompt (making sure you are in the same directory as the files)
 
