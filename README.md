@@ -76,8 +76,6 @@ The exercise notebook can be found in `exercises\` directory.
 
 In the exercise notebook you will work with a different time series and put into practice the skills you have learnt in the code along lectures.
 
-The notebook also provides some **optional advanced exercises** where you can experiment with Prophet's built in cross-validation tools and compare results with a Naive benchmark method.
-
 ## Solutions to exercises
 
 > Solutions to practical exercises will be released following the live lecture, scheduled for 21 February 2023.
