@@ -26,7 +26,7 @@ It is possible to run an interact with all of the notebooks in this course witho
 
 If you wish to use your own machine then please set up in advance of the live lectures on 21 February 2023. 
 
-> [We have provided a video going through the written instructions below.](https://www.youtube.com/watch?v=H4eopptC_Tw)
+> [We have provided a video going through the written instructions below.](https://youtu.be/u60CcwZBPYo)
 
 To learn more about environments, you can [watch this brief video](https://www.youtube.com/watch?v=CCqgNbuwMSU).
 
